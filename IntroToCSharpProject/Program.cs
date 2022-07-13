@@ -70,7 +70,7 @@
 //////Console.WriteLine(doubleValue);
 //////Console.WriteLine(decimalValue);
 //////Console.WriteLine(floatValue);
-
+Console.WriteLine("Hello");
 
 
 //type  variable name          Classes need to be instantiated with the 'new' keyword
